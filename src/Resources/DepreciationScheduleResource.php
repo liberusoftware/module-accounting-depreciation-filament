@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace Liberu\Accounting\DepreciationFilament\Resources;
 
 use Filament\Resources\Resource;
-use Filament\Schemas\Components\TextInput;
+use Filament\Forms\Components\TextInput;
 use Filament\Schemas\Schema;
 use Filament\Tables\Columns\TextColumn;
 use Filament\Tables\Table;
